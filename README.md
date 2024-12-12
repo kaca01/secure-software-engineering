@@ -1,4 +1,4 @@
-# secure-software-engineering
+# Software Systems Security and Recovery
 
 ## Team members
 - [Anastasija Savić](https://github.com/savic-a) SV7/2020
